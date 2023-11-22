@@ -3,6 +3,7 @@
 [![MIT License](https://img.shields.io/badge/license-MIT-black.svg)](https://opensource.org/licenses/MIT)
 [![Version](https://img.shields.io/badge/version-1.0-midnightgreen.svg)](https://github.com/yourusername/silent-auction)
 [![Python Version](https://img.shields.io/badge/python-3.8-violet.svg)](https://www.python.org/downloads/release/python-380/)
+
 Welcome to Silent Auction Version 1! This Python script allows you to conduct a silent auction, collecting bids from participants and determining the highest bidder and bid amount.
 
 ## Description
@@ -28,6 +29,7 @@ No installation is required. Simply download the script and run it in a Python 3
 
 ```bash
 python main.py
+```
 
 ## License
 
